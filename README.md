@@ -1,7 +1,6 @@
 # ambystoma_mexicanum
 
 This project is analyzing the genome of Ambystoma Mexicanum
-This is a repository in which we analyze the genome of the Ambystoma mexicanum
 
 Species: Ambystoma mexicanum 
 Common name: axolotl 
