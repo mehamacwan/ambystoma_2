@@ -1,4 +1,4 @@
-# ambystoma_mexicanum
+# Genome of _Ambystoma mexicanum_ 
 
 This project is analyzing the genome of _Ambystoma mexicanum_
 
